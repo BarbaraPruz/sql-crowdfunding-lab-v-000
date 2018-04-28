@@ -36,7 +36,7 @@ INSERT INTO users (name, age) VALUES ("rico", 52);
 INSERT INTO users (name, age) VALUES ("brett", 77);
 INSERT INTO users (name, age) VALUES ("rell", 11);
 INSERT INTO users (name, age) VALUES ("lani", 41);
-INSERT INTO users (name, age) VALUES ("pua", 42;
+INSERT INTO users (name, age) VALUES ("pua", 42);
 INSERT INTO users (name, age) VALUES ("deuce", 42);
 INSERT INTO users (name, age) VALUES ("scooter", 42)
 
